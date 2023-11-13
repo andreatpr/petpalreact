@@ -1,3 +1,4 @@
+/*este es el js de perfil del usuario*/
 import React, { useState, useEffect } from 'react';
 import './styles/index.css'; 
 import UserProfile from './apihandler/controller/userpp';
