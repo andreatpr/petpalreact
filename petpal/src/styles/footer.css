@@ -1,0 +1,36 @@
+/*footer*/
+footer {
+    background-color: #5B586E; 
+    color: #978d80; 
+
+}
+.prim-mitad {
+    display: flex;
+    justify-content: space-between;
+}
+.prim-mitad img {
+    display: flex;
+    margin-left: 10px;
+}
+.prim-mitad button {
+    margin-right: 10px; 
+    border-radius: 20px;
+    border-color: #EDB769;
+    background-color:transparent;
+    padding: 10px 20px;
+    color: white;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+  .segun-mitad {
+    background-color: #EDB769; 
+    padding: 20px; 
+    flex-grow: 1;
+    text-align: center;
+    color: white;
+  }
+  
+  footer .logo{
+    width: 62px;
+    height: 57px;
+  }

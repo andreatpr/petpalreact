@@ -1,0 +1,141 @@
+{
+    "usuarios": [
+      {
+        "id": 1,
+        "fotoperfil":"mascota.png",
+        "nombre": "Nico",
+        "raza": "Australian Shepherd",
+        "genero": "Masculino",
+        "edad": "9 meses",
+        "fechaIngreso": "05 Dic, 2022",
+        "foros": [
+          {
+            "id": 1,
+            "titulo": "Ayuda con cachorro",
+            "contenido": "Tengo un cachorro de 3 meses. Hace sus necesidades...",
+            "autor": "Nico",
+            "fechaPublicacion": "05 Dic, 2022",
+            "likes": 10,
+            "comentarios": [
+              {
+                "id": 101,
+                "autor": "Otro Usuario",
+                "contenido": "¡Espero que encuentres una solución pronto!",
+                "fechaComentario": "06 Dic, 2022"
+              }
+            ],
+            "vistas": 10
+          },
+          {
+            "id": 2,
+            "titulo": "Consejos de entrenamiento",
+            "contenido": "Necesito algunos consejos para entrenar a mi perro en casa...",
+            "autor": "Nico",
+            "fechaPublicacion": "07 Dic, 2022",
+            "likes": 15,
+            "comentarios": [
+              {
+                "id": 102,
+                "autor": "Amante de los Perros",
+                "contenido": "¡Aquí tienes algunos consejos útiles!",
+                "fechaComentario": "08 Dic, 2022"
+              },
+              {
+                "id": 103,
+                "autor": "Entrenador Canino",
+                "contenido": "¡Puedo ayudarte con eso!",
+                "fechaComentario": "09 Dic, 2022"
+              }
+            ],
+            "vistas": 35
+          }
+        ],
+        "recordatorios": [
+          {
+            "id": 1,
+            "titulo": "Cita con el veterinario",
+            "fechaRecordatorio": "10 Dic, 2022",
+            "descripcion": "Llevar a Nico al veterinario para su revisión mensual."
+          },
+          {
+            "id": 2,
+            "titulo": "Compra de alimentos para mascotas",
+            "fechaRecordatorio": "12 Dic, 2022",
+            "descripcion": "Asegúrate de tener suficiente comida para Nico esta semana."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "fotoperfil":"luna.png",
+        "nombre": "Luna",
+        "raza": "Golden Retriever",
+        "genero": "Femenino",
+        "edad": "1 año",
+        "fechaIngreso": "10 Ene, 2022",
+        "foros": [
+        {
+          "id": 3,
+          "titulo": "Problemas de socialización",
+          "contenido": "Mi Golden Retriever, Luna, tiene problemas para socializar con otros perros. ¿Alguien ha pasado por esto?",
+          "autor": "Luna",
+          "fechaPublicacion": "15 Ene, 2022",
+          "likes": 8,
+          "comentarios": [
+            {
+            "id": 104,
+            "autor": "Dueño de Labrador",
+            "contenido": "¡Sí, he tenido problemas similares! Aquí hay algunas sugerencias...",
+            "fechaComentario": "16 Ene, 2022"
+            },
+            {
+            "id": 105,
+            "autor": "Amante de los Animales",
+            "contenido": "Cada perro es único. La paciencia es clave en estos casos.",
+            "fechaComentario": "17 Ene, 2022"
+            }
+        ],
+        "vistas": 12
+        },
+        {
+          "id": 4,
+          "titulo": "Consejos de cuidado dental",
+          "contenido": "¿Cómo cuidar los dientes de un Golden Retriever? Luna no parece disfrutar el cepillado dental.",
+          "autor": "Luna",
+          "fechaPublicacion": "20 Ene, 2022",
+          "likes": 12,
+          "comentarios": [
+            {
+            "id": 106,
+            "autor": "Veterinario Canino",
+            "contenido": "El cuidado dental es crucial. Puedes probar con juguetes dentales y golosinas especiales.",
+            "fechaComentario": "21 Ene, 2022"
+            },
+            {
+            "id": 107,
+            "autor": "Otro Dueño de Golden",
+            "contenido": "¡Mi Golden también odia el cepillado! Busca alternativas como enjuagues bucales caninos.",
+            "fechaComentario": "22 Ene, 2022"
+            }
+          ],
+          "vistas": 20
+        }
+        ],
+        "recordatorios": [
+        {
+          "id": 3,
+          "titulo": "Paseo al parque",
+          "fechaRecordatorio": "25 Ene, 2022",
+          "descripcion": "Llevar a Luna a un paseo divertido al parque para socializar con otros perros."
+        },
+        {
+          "id": 4,
+          "titulo": "Compra de juguetes nuevos",
+          "fechaRecordatorio": "28 Ene, 2022",
+          "descripcion": "Renovar los juguetes de Luna para mantenerla entretenida."
+        }
+        ]
+      }
+    ]
+  }
+  
