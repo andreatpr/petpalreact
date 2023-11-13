@@ -21,7 +21,6 @@ const Anunciate = () => {
     }, []);
 
 const handleEnviarSolicitudClick = () => {
-    // Coloca aquí cualquier lógica adicional que necesites antes de mostrar la alerta
     alert('Su solicitud fue enviada');
     };
     
