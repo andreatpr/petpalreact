@@ -1,5 +1,3 @@
-/* index.css */
-
 body {
   background-color: #5B586E;
   font-family: 'Fira Sans', sans-serif;
@@ -122,13 +120,11 @@ body {
   margin-bottom: -7px;
 }
 .imagen-perfil {
-  width: 220px; /* Ajusta el ancho de la imagen según tus necesidades */
-  height: 220px; /* Ajusta la altura de la imagen según tus necesidades */
-  border-radius: 50%; /* Hace que el borde sea circular */
-  object-fit: cover; /* Ajusta el tamaño de la imagen para cubrir el contenedor circular */
+  width: 220px; 
+  height: 220px; 
+  border-radius: 50%; 
+  object-fit: cover; 
 }
-
-/* Puedes ajustar otros estilos según tus preferencias */
 
 .fecha-foro-t, .icono-foro-t {
   margin-right: 10px;
