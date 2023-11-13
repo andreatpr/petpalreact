@@ -1,4 +1,3 @@
-// userService.js
 const fetchUserData = async (userId) => {
     try {
       const response = await fetch(`http://localhost:3001/usuarios/${userId}`);
