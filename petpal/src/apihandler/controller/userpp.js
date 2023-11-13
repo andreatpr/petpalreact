@@ -1,4 +1,3 @@
-// UserProfileContainer.js
 import { useState, useEffect } from 'react';
 import { fetchUserData } from '../service/userservice';
 
